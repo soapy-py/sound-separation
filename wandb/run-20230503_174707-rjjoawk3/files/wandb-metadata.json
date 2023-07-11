@@ -1,0 +1,125 @@
+{
+    "os": "Linux-5.14.0-1024-oem-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-05-03T21:47:08.514859",
+    "startedAt": "2023-05-03T21:47:07.965315",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/lakshmi/slot_attention/slot_attention/train.py",
+    "codePath": "slot_attention/train.py",
+    "git": {
+        "remote": "https://github.com/untitled-ai/slot_attention.git",
+        "commit": "2656866bda1958ddab68f11584031462e558de86"
+    },
+    "email": "krg.lakshminarasimhan@gmail.com",
+    "root": "/home/lakshmi/slot_attention",
+    "host": "mcd-z1",
+    "username": "lakshmi",
+    "executable": "/home/lakshmi/anaconda3/envs/slots/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3067.7315625,
+        "min": 1200.0,
+        "max": 4575.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1199.987,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 1199.995,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 1325.373,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 1200.007,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3900.0,
+            "min": 1200.0,
+            "max": 4700.0
+        }
+    ],
+    "disk": {
+        "total": 929.2041244506836,
+        "used": 90.81563568115234
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A5000",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 125.5028305053711
+    }
+}
