@@ -1,0 +1,119 @@
+--2023-07-11 14:49:10--  http://your/
+Resolving your (your)... 18.18.187.25
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 14:51:18--  (try: 2)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 14:53:28--  (try: 3)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 14:55:38--  (try: 4)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 14:57:49--  (try: 5)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:00:01--  (try: 6)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:02:15--  (try: 7)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:04:29--  (try: 8)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:06:44--  (try: 9)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:09:00--  (try:10)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:11:18--  (try:11)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:13:35--  (try:12)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:15:52--  (try:13)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:18:09--  (try:14)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:20:27--  (try:15)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:22:44--  (try:16)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:25:01--  (try:17)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:27:18--  (try:18)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:29:35--  (try:19)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Retrying.
+
+--2023-07-11 15:31:53--  (try:20)  http://your/
+Connecting to your (your)|18.18.187.25|:80... failed: Connection timed out.
+Giving up.
+
+--2023-07-11 15:34:00--  http://operating/
+Resolving operating (operating)... failed: Name or service not known.
+wget: unable to resolve host address ‘operating’
+--2023-07-11 15:34:00--  http://system/
+Resolving system (system)... failed: Name or service not known.
+wget: unable to resolve host address ‘system’
+--2023-07-11 15:34:00--  http://does/
+Resolving does (does)... failed: Name or service not known.
+wget: unable to resolve host address ‘does’
+--2023-07-11 15:34:00--  http://not/
+Resolving not (not)... failed: Name or service not known.
+wget: unable to resolve host address ‘not’
+--2023-07-11 15:34:00--  http://appear/
+Resolving appear (appear)... failed: Name or service not known.
+wget: unable to resolve host address ‘appear’
+--2023-07-11 15:34:00--  http://to/
+Resolving to (to)... 18.4.86.46
+Connecting to to (to)|18.4.86.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://to/ [following]
+--2023-07-11 15:34:01--  https://to/
+Connecting to to (to)|18.4.86.46|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘to’.
+To connect to to insecurely, use `--no-check-certificate'.
+--2023-07-11 15:34:01--  http://be/
+Resolving be (be)... 18.9.44.134
+Connecting to be (be)|18.9.44.134|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://be/ [following]
+--2023-07-11 15:34:01--  https://be/
+Connecting to be (be)|18.9.44.134|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘be’.
+To connect to be insecurely, use `--no-check-certificate'.
+--2023-07-11 15:34:01--  http://macos,/
+Resolving macos, (macos,)... failed: Name or service not known.
+wget: unable to resolve host address ‘macos,’
