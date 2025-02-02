@@ -2,7 +2,7 @@
 set -e
 set -x
 
-DATA_DIR=/tmp/data
+DATA_DIR=/scratch2/weka/mcdermott/schen77/tmp/data
 
 if [ ! -d $DATA_DIR ]; then
     mkdir $DATA_DIR
